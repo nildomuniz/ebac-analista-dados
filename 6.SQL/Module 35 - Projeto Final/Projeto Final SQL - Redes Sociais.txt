@@ -1,0 +1,11 @@
+1º Projeto - SQL para Analista de Dados - Exploração e Análise de Dados de Crédtio com SQL
+
+Você pode visualizar o projeto completo nesse link, lá no Kaggle: https://www.kaggle.com/nildomunizfrana/credit-eda-and-analysis
+
+Quero compartilhar com vocês, meu primeiro Projeto "Credit EDA and Analysis", que é uma Exploração e análise de dados de crédito com SQL, que fiz para concluir o módulo de SQL do curso Analista de Dados na EBAC.
+
+Estou muito orgulhoso de mim, por aprender sobre SQL, Banco de Dados, Pyhton e programação, parecia um mundo tão longe e hoje está aqui do lado.
+
+O curso está pertindo de terminar já cheguei em 80% uhuuu, simbora estudar!
+
+É verdade a educação muda o seu mundo, assim que descobrir isso, abrir foi vários mundos rsrs.
